@@ -1,0 +1,10 @@
+{
+  "name": {
+    "message": "View Image",
+    "description": "Extension name in manifest."
+  },
+  "description": {
+    "message": "View image in current tab",
+    "description": "Extension description in manifest."
+  }
+}

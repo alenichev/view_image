@@ -6,6 +6,6 @@ function viewImage(info, tab) {
 }
 
 // create context menu item for images
-chrome.contextMenus.create({"title": "View Image",
+chrome.contextMenus.create({"title": chrome.i18n.getMessage("name"),
                             "contexts": ["image"],
                             "onclick": viewImage});

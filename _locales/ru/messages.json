@@ -1,0 +1,10 @@
+{
+  "name": {
+    "message": "Открыть картинку",
+    "description": "Extension name in manifest."
+  },
+  "description": {
+    "message": "Открыть картинку в текущей вкладке",
+    "description": "Extension description in manifest."
+  }
+}
